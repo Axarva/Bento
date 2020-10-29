@@ -19,7 +19,7 @@
     change the --imgcol value 
     to make the filter to your own */
 
-    --imgbg: url(/img/scool.png);
+    --imgbg: url(/Bento/img/scool.png);
     --imgcol: linear-gradient(
         rgba(255, 255, 255, 0),
         rgba(255, 255, 255, 0)
@@ -105,7 +105,7 @@ body {
 .card {
     box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
     border-radius: 5px;
-    background-color: var(--sbg);
+    background-color: #32382e;
 }
 .card:hover {
     transform: translateY(-0.2rem);
